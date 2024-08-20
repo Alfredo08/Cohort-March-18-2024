@@ -1,5 +1,5 @@
 # M09 W23 | Project Planning
-[Github Repository]() | [Vimeo Video Recording](https://vimeo.com/1000579699/23b4b6e0ba?share=copy)
+[Github Repository](https://github.com/Alfredo08/Cohort-March-18-2024/tree/main/W23M09%20-%20Project%20Planning) | [Vimeo Video Recording](https://vimeo.com/1000579699/23b4b6e0ba?share=copy)
 
 ## Topics to cover 
 
